@@ -1,0 +1,10 @@
+opencv-python==4.9.0.80
+numpy==1.25.2
+pandas==2.0.3
+matplotlib==3.7.2
+scipy==1.11.1
+easydict==1.13
+insightface==0.7.3
+streamlit==1.32.0
+# jupyter==1.0.0
+
