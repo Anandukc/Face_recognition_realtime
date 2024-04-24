@@ -49,7 +49,7 @@ Or from official website of Visual Studio Installer.
     - Pip3 install redis-server  OR Download the “redis-x64-3.0.504.zip/” from “https://github.com/MicrosoftArchive/redis/releases” 
     - Extract the file and click on “redis-server” in the new directory.
     - Click on the file “redis-CLI” and type “ping”, it will result in “PONG”.
-    - create a hkey
+    - create a hkey in redis
 
 
  Note:-
